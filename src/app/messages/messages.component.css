@@ -1,0 +1,16 @@
+*{
+    color: #fff;
+}
+
+button{
+    color:#333;
+}
+
+button:hover{
+    color:#fff;
+    background-color: #ff4d4d;
+}
+
+h2 {
+    color: rgb(255, 238, 5);
+}
